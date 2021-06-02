@@ -1,0 +1,1 @@
+const t={key:"v-16679df4",path:"/user/introduction.html",title:"简介",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],filePathRelative:"user/introduction.md",git:{updatedTime:1622615634e3,contributors:[{name:"Benbinbin",email:"3126319718@qq.com",commits:3}]}};export{t as data};
