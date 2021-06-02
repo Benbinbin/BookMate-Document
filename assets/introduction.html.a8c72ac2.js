@@ -1,0 +1,1 @@
+import{o as e,c as a,a as o,b as r}from"./app.6a83373d.js";const s={},d={id:"develop"},p=o("a",{class:"header-anchor",href:"#develop"},"#",-1),n=r(" Develop");s.render=function(o,r){return e(),a("h1",d,[p,n])};export default s;
